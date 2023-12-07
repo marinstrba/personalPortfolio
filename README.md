@@ -2,16 +2,16 @@
 
 Welcome to my github repository. This is my personal portfolio in form of responsive website. I have borrowed the template from  bedimcode/responsive-portfolio-website-Alexa. Please enjoy the website 😊.
 
-## Features  
+## Features 🚀  
 -> Responsive Design: The website is fully responsive, ensuring a great user experience across all devices.  
 -> Interactive Navigation: Smooth scrolling and interactive elements for easy navigation.  
 -> Dynamic Content Sections: Sections include Home, About, Skills, Services, Portfolio, Contact, and more.  
 -> Social Media Integration: Quick links to LinkedIn, Instagram, and GitHub profiles.  
 -> Engaging Visuals: Modern design with SVG animations and a professional look.  
 
-## Pictures 
+## Pictures 🖼️  
 
-To be continued...
+🚧To be continued... 🚧
 
 ## Technology used 🛠️  
 
