@@ -133,5 +133,20 @@ window.addEventListener('scroll', scrollHeader)
 
 /*==================== SHOW SCROLL UP ====================*/ 
 
+function scrollUp() {
+	const scrollUp = document.getElementById('scroll-up');
+	if (this.scrollY >= 560)
+	{
+		scrollUp.classList.add('show-scroll');
+	} else {
+		scrollUp.classList.remove('show-scroll');
+	}
+}
+
+window.addEventListener('scroll', scrollUp)
 
 /*==================== DARK LIGHT THEME ====================*/ 
+
+const themeButton = document.getElementById('theme-button')
+const darkTheme = 'dark-theme'
+const iconTheme = 'bx-sun'
