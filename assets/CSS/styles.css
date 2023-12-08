@@ -497,7 +497,7 @@ img {
   width: 90%;
 }
 
-.css {
+.skills__css {
   width: 80%;
 }
 
@@ -506,24 +506,37 @@ img {
 }
 
 .skills__react {
-  width: 85%;
+  width: 60%;
 }
 
-.skills__php{
+.skills__java{
   width: 80%;
 }
 
-.skills__node {
+.skills__springboot {
   width: 70%;
 }
 
-.skills__firebase {
+.skills__sql {
   width: 90%;
 }
 
-.skills__python {
-  width: 5%;
+.skills__c {
+  width: 95%;
 }
+
+.skills__cpp{
+  width: 80%;
+}
+
+.skills__git {
+  width: 90%;
+}
+
+.skills__linux {
+  width: 75%;
+}
+
 
 .skills__close .skills__list {
   height: 0;
